@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/landing-page/static/css/main.1e2fb667.css",
+    "main.js": "/landing-page/static/js/main.c0dfdcc1.js",
+    "static/js/787.6606bfd5.chunk.js": "/landing-page/static/js/787.6606bfd5.chunk.js",
+    "static/media/gallery-2.jpg": "/landing-page/static/media/gallery-2.aebc7bb48aee8cd8c527.jpg",
+    "static/media/gallery-1.jpg": "/landing-page/static/media/gallery-1.777db4533b4de5125624.jpg",
+    "static/media/gallery-4.jpg": "/landing-page/static/media/gallery-4.1508dfe1adcaeb9a543d.jpg",
+    "static/media/about.png": "/landing-page/static/media/about.7b2e63ff7acee9c92ef6.png",
+    "static/media/zoo.jpg": "/landing-page/static/media/zoo.5bb52a77657cb5344d0e.jpg",
+    "static/media/banner_1.png": "/landing-page/static/media/banner_1.52235e1d02691a64aa27.png",
+    "static/media/gallery-3.jpg": "/landing-page/static/media/gallery-3.6fadf387c7c60121cf91.jpg",
+    "static/media/animal_1.jpg": "/landing-page/static/media/animal_1.452378f1ec0c84d788e1.jpg",
+    "static/media/animals_2.jpg": "/landing-page/static/media/animals_2.4e21002961692106c49c.jpg",
+    "static/media/animals_3.jpg": "/landing-page/static/media/animals_3.4cc4b5f2af72588e0603.jpg",
+    "static/media/animals_4.jpg": "/landing-page/static/media/animals_4.ae46d47e4f9a8f6f886c.jpg",
+    "static/media/pricing1.png": "/landing-page/static/media/pricing1.671b5faf5700f257363d.png",
+    "static/media/pricing2.png": "/landing-page/static/media/pricing2.0a7100e60b1c0c566426.png",
+    "static/media/logo.svg": "/landing-page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/landing-page/index.html",
+    "main.1e2fb667.css.map": "/landing-page/static/css/main.1e2fb667.css.map",
+    "main.c0dfdcc1.js.map": "/landing-page/static/js/main.c0dfdcc1.js.map",
+    "787.6606bfd5.chunk.js.map": "/landing-page/static/js/787.6606bfd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e2fb667.css",
+    "static/js/main.c0dfdcc1.js"
+  ]
+}
